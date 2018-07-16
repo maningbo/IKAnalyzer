@@ -16,3 +16,6 @@ ikanalyzer.iml
 .idea/
 target/
 logs/
+/.settings/
+/.classpath
+/.project
